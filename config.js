@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Gửi hân iu của tớ ",
     introTitle: 'hân yêu dấu',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao vợ cứ đi nhầm đường
+    Mà sao hân cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
